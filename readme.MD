@@ -13,10 +13,10 @@
 * C#
 * JSON / .CSV (Data Storage)
 
-Connect to the GitHub Repository.
+Connect to the GitHub Repository and clone the Console Application
 ```
 git init
-git remote add origin https://github.com/MarchanoGG/project-b.git
+git clone https://github.com/MarchanoGG/project-b.git
 ```
 
 Commits
