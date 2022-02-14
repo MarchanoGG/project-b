@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marchano/Projects/ProjectB/ProjectB/ProjectB.csproj",
+      "projectUniqueName": "/Users/marchano/Projects/ProjectB/project-b/ProjectB/ProjectB.csproj",
       "projectName": "ProjectB",
-      "projectPath": "/Users/marchano/Projects/ProjectB/ProjectB/ProjectB.csproj",
+      "projectPath": "/Users/marchano/Projects/ProjectB/project-b/ProjectB/ProjectB.csproj",
       "packagesPath": "/Users/marchano/.nuget/packages/",
-      "outputPath": "/Users/marchano/Projects/ProjectB/ProjectB/obj/",
+      "outputPath": "/Users/marchano/Projects/ProjectB/project-b/ProjectB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marchano/.config/NuGet/NuGet.Config"

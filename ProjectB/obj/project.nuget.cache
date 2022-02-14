@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PgHAVwFjuJG2sPFmizTBIKLf/mGYTJe2jUJAG8tBtz8D+TPahkrxFmCXSOGLOUNNNL1rQ6HIiyz5hxUlBXT5WA==",
+  "dgSpecHash": "31bmZNFI6x4iQWRg0yH59qi8O4NRyPI944BRIXwMaEXftNumN04md2b+ZpX+D0jV9dCAt5oBoIdBQM6n34A8Qw==",
   "success": true,
-  "projectFilePath": "/Users/marchano/Projects/ProjectB/ProjectB/ProjectB.csproj",
+  "projectFilePath": "/Users/marchano/Projects/ProjectB/project-b/ProjectB/ProjectB.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

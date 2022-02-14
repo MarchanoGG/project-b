@@ -6,7 +6,11 @@ namespace ProjectB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Cat kat = new Cat("kat");
+
+            kat.Bark();
+
         }
     }
 }
