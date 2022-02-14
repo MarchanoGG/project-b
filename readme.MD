@@ -1,5 +1,6 @@
 # Project B
 
+*Fill this readme with useful information when necessary*
 
 ### Rules
 * Before merging code into the master branch you should have your code reviewed by at least one other team member
