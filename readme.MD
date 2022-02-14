@@ -15,6 +15,7 @@
 
 Connect to the GitHub Repository and clone the Console Application
 ```
+cd /{je project map}
 git init
 git clone https://github.com/MarchanoGG/project-b.git
 ```
