@@ -15,7 +15,7 @@
 
 Connect to the GitHub Repository and clone the Console Application
 ```
-cd /{je project map}
+cd /{your project file}
 git init
 git clone https://github.com/MarchanoGG/project-b.git
 ```
@@ -25,3 +25,7 @@ Commits
 git add .
 git commit -m "Initial commit"
 ```
+
+Opening Project<br>
+*Via Visual Studio -> Open -> ProjectB.csproj*
+
