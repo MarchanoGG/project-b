@@ -11,6 +11,10 @@ namespace ProjectB
 
             kat.Bark();
 
+            Car renault = new Car();
+
+            renault.GiveGass();
+
         }
     }
 }
