@@ -1,0 +1,15 @@
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/bin/Debug/net5.0/ProjectB.deps.json
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/bin/Debug/net5.0/ProjectB.runtimeconfig.json
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/bin/Debug/net5.0/ProjectB.runtimeconfig.dev.json
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/bin/Debug/net5.0/ProjectB.dll
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/bin/Debug/net5.0/ref/ProjectB.dll
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/bin/Debug/net5.0/ProjectB.pdb
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.csproj.AssemblyReference.cache
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.AssemblyInfoInputs.cache
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.AssemblyInfo.cs
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.csproj.CoreCompileInputs.cache
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.dll
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ref/ProjectB.dll
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.pdb
+/Users/marchano/Documents/Projects/ProjectB/project-b/ProjectB/obj/Debug/net5.0/ProjectB.genruntimeconfig.cache
