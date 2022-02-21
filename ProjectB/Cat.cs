@@ -13,5 +13,9 @@ namespace ProjectB
         {
             Console.WriteLine($"{name} says MEIWU! MEIWU!");
         }
+        public void Tobias(string name = "Tobias")
+        {
+            Console.WriteLine($"Hello {name}");
+        }
     }
 }
