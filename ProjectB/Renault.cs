@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProjectB
 {
-    internal abstract class Car
+    internal class Renault : Car
     {
-        public abstract void GiveGass();
+        public override void GiveGass()
+        {
+            Console.WriteLine("Vroom");
+        }
     }
 }
