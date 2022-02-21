@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/marchano/.nuget/packages/": {}
+    "C:\\Users\\jeremey\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marchano/Projects/ProjectB/project-b/ProjectB/ProjectB.csproj",
+      "projectUniqueName": "D:\\Project B\\project-b\\ProjectB\\ProjectB.csproj",
       "projectName": "ProjectB",
-      "projectPath": "/Users/marchano/Projects/ProjectB/project-b/ProjectB/ProjectB.csproj",
-      "packagesPath": "/Users/marchano/.nuget/packages/",
-      "outputPath": "/Users/marchano/Projects/ProjectB/project-b/ProjectB/obj/",
+      "projectPath": "D:\\Project B\\project-b\\ProjectB\\ProjectB.csproj",
+      "packagesPath": "C:\\Users\\jeremey\\.nuget\\packages\\",
+      "outputPath": "D:\\Project B\\project-b\\ProjectB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/marchano/.config/NuGet/NuGet.Config"
+        "C:\\Users\\jeremey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
