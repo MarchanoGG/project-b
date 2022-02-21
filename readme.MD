@@ -13,11 +13,15 @@
 * C#
 * JSON / .CSV (Data Storage)
 
-Connect to the GitHub Repository.
+1. Create a Folder and Change your directory.
 ```
-git init
-git remote add origin https://github.com/MarchanoGG/project-b.git
+cd Documents/Projects/ProjectB 
 ```
+2. Clone the Repo
+```
+git clone https://github.com/MarchanoGG/project-b 
+```
+
 
 Commits
 ```
