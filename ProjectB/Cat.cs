@@ -7,6 +7,7 @@ namespace ProjectB
         string name;
         public Cat(string catsname)
         {
+           // hello ik ben mervin
             name = catsname;
         }
         public void Bark()
