@@ -1,5 +1,6 @@
 # Project B
 
+*Fill this readme with useful information when necessary*
 
 ### Rules
 * Before merging code into the master branch you should have your code reviewed by at least one other team member
@@ -13,18 +14,19 @@
 * C#
 * JSON / .CSV (Data Storage)
 
-1. Create a Folder and Change your directory.
+Connect to the GitHub Repository and clone the Console Application
 ```
-cd Documents/Projects/ProjectB 
+cd /{your project file}
+git init
+git clone https://github.com/MarchanoGG/project-b.git
 ```
-2. Clone the Repo
-```
-git clone https://github.com/MarchanoGG/project-b 
-```
-
 
 Commits
 ```
 git add .
 git commit -m "Initial commit"
 ```
+
+Opening Project<br>
+*Via Visual Studio -> Open -> ProjectB.csproj*
+
